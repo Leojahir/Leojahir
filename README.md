@@ -6,11 +6,10 @@
 
 ## Sobre mi
 
-- 📲 Software developer de profesión
-- 🎥 
+- 📲💻 Software developer de profesión
 - ✏️ Siempre tomo apuntes he intento mejorar mis skills
-- 📗 Apasionado el constante aprendizaje
-- 🧑‍🏫 
+- 📗 Apasionado por el constante aprendizaje
+- 🧑‍🏫 Mi meta personal es establecerme profesionalmente como FullStack Developer
 
 
 ### Mi stack

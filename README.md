@@ -8,8 +8,8 @@
 
 - 📲💻 Software developer de profesión
 - ✏️ Siempre tomo apuntes he intento mejorar mis skills
-- 📗 Apasionado por el constante aprendizaje
-- 🧑‍🏫 Mi meta personal es establecerme profesionalmente como FullStack Developer
+- 📗 Apasionado y dispuesto por el constante aprendizaje
+- 🧑‍🏫 Fanatico de los videojuegos tanto como jugador hasta desarrollador
 
 
 

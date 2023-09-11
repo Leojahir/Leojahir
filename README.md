@@ -1,9 +1,8 @@
 ### 
 <div align="center">
 <h1 align="center">Hola, soy <a>Leonardo Muñoz</a> 👋</h1>
+<img src="https://i.ibb.co/bJhwG4t/Blue-Yellow-Futuristic-Virtual-Technology-Blog-Banner.png" alt="Blue-Yellow-Futuristic-Virtual-Technology-Blog-Banner" border="0"></a>>
 </div>
-<img src=<a href="https://ibb.co/L5wjsTK"><img src="https://i.ibb.co/bJhwG4t/Blue-Yellow-Futuristic-Virtual-Technology-Blog-Banner.png" alt="Blue-Yellow-Futuristic-Virtual-Technology-Blog-Banner" border="0"></a>>
-
 
 ## Sobre mi
 

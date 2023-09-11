@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
  <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
                 width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img

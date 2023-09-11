@@ -1,6 +1,6 @@
 ### 
 <div align="center">
-<h1 align="center">Hola, soy <a>Leonardo Muñoz</a> y te doy la bienvenida a mi perfil 🥳👋</h1>
+<h1 align="center">Hola, soy <a>Leonardo Muñoz</a> y te doy la bienvenida a mi perfil 🥳<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <a href="https://ibb.co/SdZYZyz"><img src="https://i.ibb.co/MGJwJSm/Banner-Leo-Mu-oz.png" alt="Banner-Leo-Mu-oz" border="0"></a>
 </div>
 

@@ -6,7 +6,7 @@
 
 ## Sobre mi
 - 👨‍🎓 Titulado de Analista Programador e Ingeniero en Informatica en desarrollo.
-- ✏️ Siempre tomo apuntes he intento mejorar mis skills.
+- ✏️ Siempre tomo apuntes he intento mejorar mis habilidades.
 - 📗 Apasionado y dispuesto por el constante aprendizaje.
 - 🧑‍🏫 Fanatico de los videojuegos tanto como jugador hasta desarrollador.
 

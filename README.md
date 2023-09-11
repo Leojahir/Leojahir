@@ -12,7 +12,6 @@
 - 🧑‍🏫 Mi meta personal es establecerme profesionalmente como FullStack Developer
 
 
-### Mi stack
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="#" target="_blank"> <img
